@@ -1,0 +1,15 @@
+{
+  "name": "my-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "prima-listianti",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.6",
+    "@cypress/browserify-preprocessor": "^3.0.2"
+  }
+}
